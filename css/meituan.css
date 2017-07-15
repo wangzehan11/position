@@ -1,0 +1,1063 @@
+@import url(m_style.css);
+.cen {
+  margin: auto;
+}
+.header {
+  width: 100%;
+  height: 31px;
+  background: #f9f9f9;
+}
+.header .header1 {
+  width: 1170px;
+  height: 31px;
+  background: none;
+  margin: auto;
+}
+.header .header1 .header2 {
+  width: 158px;
+  height: 31px;
+  background: none;
+  float: left;
+}
+.header .header1 .header2 p {
+  float: left;
+  padding-top: 7px;
+  padding-right: 15px;
+}
+.header .header1 .header2 p span {
+  color: orangered;
+}
+.header .header1 .header3 {
+  width: 535px;
+  height: 31px;
+  background: none;
+  float: right;
+}
+.header .header1 .header3 a {
+  float: left;
+  padding-top: 7px;
+  display: block;
+  margin-left: 12px;
+}
+.nav {
+  width: 1170px;
+  height: 99px;
+  background: none;
+  margin: auto;
+}
+.nav img {
+  float: left;
+}
+.nav .nav1 {
+  width: 68px;
+  height: 55px;
+  background: none;
+  float: left;
+  margin-top: 20px;
+}
+.nav .nav1 p {
+  font-size: 20px;
+  margin-left: 5px;
+}
+.nav .nav1 a {
+  margin-left: 5px;
+  font-size: 12px;
+  border: 1px solid #eeeeee;
+  width: 18px ;
+}
+.nav .nav2 {
+  width: 832px;
+  height: 99px;
+  background: none;
+  float: left;
+}
+.nav .nav2 input {
+  float: left;
+  height: 37px;
+  width: 420px;
+  margin-top: 20px;
+  margin-left: 164px;
+  border: 2px solid #2bb8aa;
+}
+.nav .nav2 img {
+  margin-top: 20px;
+}
+.nav .nav2 .mn {
+  width: 488px;
+  height: 40px;
+  background: none;
+  margin-top: 60px;
+  margin-left: 164px ;
+}
+.nav .nav2 .mn p {
+  float: left;
+  margin-top: 13px;
+  padding-right: 20px;
+}
+.nav .mn1 {
+  width: 182px;
+  height: 100px;
+  background: none;
+  float: right;
+}
+.nav .mn1 dl {
+  float: left;
+  margin-left: 20px;
+  margin-top: 30px;
+}
+.nav .mn1 dl dt {
+  float: left;
+  margin-left: 8px;
+}
+.nvaa {
+  width: 1170px;
+  height: 40px;
+  background: #2bb8aa;
+  margin: auto;
+  margin-top: 5px;
+}
+.nvaa .nvaa1 {
+  width: 243px;
+  height: 40px;
+  background: #00b195;
+  float: left;
+}
+.nvaa .nvaa1 p {
+  font-size: 16px;
+  margin-top: 9px;
+  margin-left: 14px;
+  color: white;
+}
+.nvaa a {
+  float: left;
+  margin: 0 20px;
+  margin-top: 10px;
+  font-size: 15px;
+  color: white;
+}
+.nnn {
+  width: 1170px;
+  height: 477px;
+  background: none;
+  margin: auto;
+}
+.nnn .nnn1 {
+  width: 247px;
+  height: 477px;
+  background: none;
+  float: left;
+  margin-right: 18px;
+}
+.nnn .nnn1 ul li {
+  height: 52px;
+  border-bottom: 1px solid #999999;
+  line-height: 49px;
+  font-size: 17px;
+}
+.nnn .nnn1 ul li span {
+  float: right;
+  margin-right: 4px;
+  font-size: 10px;
+  color: #999999;
+}
+.nnn .nnn1 ul li span img {
+  margin-left: 4px;
+}
+.nnn .nnn2 {
+  width: 692px;
+  height: 477px;
+  background: none;
+  float: left;
+  margin-right: 20px;
+}
+.nnn .nnn2 .mmm1 {
+  width: 692px;
+  height: 162px;
+  background: none;
+  float: left;
+}
+.nnn .nnn2 .mmm1 ul {
+  float: left;
+  width: 692px;
+  border-bottom: 1px solid #999999;
+}
+.nnn .nnn2 .mmm1 ul li {
+  float: left;
+  line-height: 40px;
+  padding-top: 12px;
+  margin-left: 19px;
+}
+.nnn .nnn2 .mmm1 ul li a {
+  color: orangered;
+}
+.nnn .nnn2 .mmm2 {
+  width: 693px;
+  height: 315px;
+  background: none;
+  float: left;
+}
+.nnn .nnn2 .mmm2 .mdn {
+  width: 344px;
+  height: 311px;
+  background: none;
+  float: left;
+  border: 1px solid #999999;
+}
+.nnn .nnn2 .mmm2 .mdn dl {
+  float: left;
+}
+.nnn .nnn2 .mmm2 .mdn dl dt {
+  margin-top: 7px;
+}
+.nnn .nnn2 .mmm2 .mdn dl dd {
+  padding-top: 17px;
+}
+.nnn .nnn2 .mmm2 .mdn dl dd b {
+  font-size: 15px;
+}
+.nnn .nnn2 .mmm2 .mdn dl dd span {
+  font-size: 20px;
+  color: orangered;
+  float: right;
+  margin-top: -27px;
+}
+.nnn .nnn2 .mmm2 .mdn1 {
+  width: 345px;
+  height: 311px;
+  background: none;
+  float: right;
+  border: 1px solid #999999;
+}
+.nnn .nnn2 .mmm2 .mdn1 dl {
+  float: right;
+}
+.nnn .nnn2 .mmm2 .mdn1 dl dt {
+  margin-top: 7px;
+}
+.nnn .nnn2 .mmm2 .mdn1 dl dd {
+  padding-top: 17px;
+}
+.nnn .nnn2 .mmm2 .mdn1 dl dd b {
+  font-size: 15px;
+}
+.nnn .nnn2 .mmm2 .mdn1 dl dd span {
+  font-size: 20px;
+  color: orangered;
+  float: right;
+  margin-top: -27px;
+}
+.nnn .nnn3 {
+  width: 192px;
+  height: 477px;
+  background: none;
+  float: left;
+}
+.nnn .nnn3 .wwe {
+  width: 195px;
+  height: 158px;
+  background: none;
+  float: left;
+  border: 1px solid #999999;
+  border-right: none;
+}
+.nnn .nnn3 .wwe dl {
+  padding-top: 15px;
+}
+.nnn .nnn3 .wwe dl dt {
+  margin-left: 34px;
+  font-size: 16px;
+}
+.nnn .nnn3 .wwe dl dt b {
+  color: orangered;
+}
+.nnn .nnn3 .wwe dl dd {
+  margin-left: 34px;
+}
+.nnn .nnn3 .wwe2 {
+  width: 192px;
+  height: 313px;
+  background: none;
+  float: left;
+  border: 1px solid #999999;
+  border-right: none;
+}
+.nnn .nnn3 .wwe2 dl {
+  padding-top: 58px;
+}
+.nnn .nnn3 .wwe2 dl dt {
+  margin-left: 50px;
+  color: #999999;
+}
+.nnn .nnn3 .wwe2 dl dt p {
+  font-size: 17px;
+}
+.kkk {
+  width: 1170px;
+  height: 1646px;
+  background: none;
+  margin: auto;
+}
+.kkk .up {
+  width: 1170px;
+  height: 70px;
+  background: none;
+  margin: auto;
+}
+.kkk .up .nbv1 {
+  width: 84px;
+  height: 70px;
+  background: none;
+  float: left;
+}
+.kkk .up .nbv1 img {
+  margin-top: 15px;
+  float: left;
+}
+.kkk .up .nbv1 p {
+  font-size: 18px;
+  float: right;
+  margin-top: 20px;
+  margin-right: 7px;
+}
+.kkk .up .nbv2 {
+  width: 477px;
+  height: 70px;
+  background: none;
+  float: right;
+}
+.kkk .up .nbv2 p {
+  float: left;
+  margin-top: 25px;
+  margin-right: 25px ;
+}
+.kkk .cent {
+  width: 1170px;
+  height: 1530px;
+  background: none;
+  margin: auto;
+}
+.kkk .cent .main3 {
+  width: 279px;
+  height: 305px;
+  background: none;
+  float: left;
+  padding-left: 11px;
+  border: 1px solid #eeeeee;
+}
+.kkk .cent .main3 dl dt {
+  margin-left: 12px;
+  padding-top: 10px;
+}
+.kkk .cent .main3 dl dd {
+  padding-top: 10px;
+}
+.kkk .cent .main3 dl dd b {
+  margin-left: 12px;
+}
+.kkk .cent .main3 dl dd a {
+  font-size: 16px;
+  color: orangered;
+  margin-left: 12px;
+  margin-top: 30px;
+}
+.kkk .cent .main3 dl dd p {
+  margin-left: 12px;
+}
+.kkk .cent .main3 dl dd span {
+  margin-left: 5px;
+  margin-top: 10px;
+}
+.kkk .cent .main3 dl dd c {
+  margin-left: 78px;
+  margin-top: 30px;
+}
+.kkk .cent .main3 dl dd p1 {
+  float: right;
+  margin-right: 10px;
+  margin-top: 30px;
+}
+.down {
+  width: 1170px;
+  height: 50px;
+  background: none;
+  padding-top: 15px;
+  background: #f6f6f6;
+}
+.down a {
+  display: inline;
+  margin-left: 492px;
+  font-size: 17px;
+}
+.kkk2 {
+  width: 1170px;
+  height: 1646px;
+  background: none;
+  margin: auto;
+}
+.kkk2 .up1 {
+  width: 1170px;
+  height: 70px;
+  background: none;
+  margin: auto;
+}
+.kkk2 .up1 .nbv1 {
+  width: 120px;
+  height: 70px;
+  background: none;
+  float: left;
+}
+.kkk2 .up1 .nbv1 img {
+  margin-top: 15px;
+  float: left;
+}
+.kkk2 .up1 .nbv1 p {
+  font-size: 18px;
+  float: right;
+  margin-top: 20px;
+  margin-right: 7px;
+}
+.kkk2 .up1 .nbv2 {
+  width: 477px;
+  height: 70px;
+  background: none;
+  float: right;
+}
+.kkk2 .up1 .nbv2 p {
+  float: left;
+  margin-top: 25px;
+  margin-right: 25px ;
+}
+.kkk2 .cent2 {
+  width: 1170px;
+  height: 920px;
+  background: none;
+  margin: auto;
+}
+.kkk2 .cent2 .main3 {
+  width: 279px;
+  height: 305px;
+  background: none;
+  float: left;
+  padding-left: 11px;
+  border: 1px solid #eeeeee;
+}
+.kkk2 .cent2 .main3 dl dt {
+  margin-left: 12px;
+  padding-top: 10px;
+}
+.kkk2 .cent2 .main3 dl dd {
+  padding-top: 10px;
+}
+.kkk2 .cent2 .main3 dl dd b {
+  margin-left: 12px;
+}
+.kkk2 .cent2 .main3 dl dd a {
+  font-size: 16px;
+  color: orangered;
+  margin-left: 12px;
+  margin-top: 30px;
+}
+.kkk2 .cent2 .main3 dl dd p {
+  margin-left: 12px;
+}
+.kkk2 .cent2 .main3 dl dd span {
+  margin-left: 5px;
+  margin-top: 10px;
+}
+.kkk2 .cent2 .main3 dl dd c {
+  margin-left: 78px;
+  margin-top: 30px;
+}
+.kkk2 .cent2 .main3 dl dd p1 {
+  float: right;
+  margin-right: 10px;
+  margin-top: 30px;
+}
+.kkk3 {
+  width: 1170px;
+  height: 312px;
+  background: none;
+  margin: auto;
+}
+.kkk3 .up1 {
+  width: 1170px;
+  height: 70px;
+  background: none;
+  margin: auto;
+}
+.kkk3 .up1 .nbv1 {
+  width: 120px;
+  height: 70px;
+  background: none;
+  float: left;
+}
+.kkk3 .up1 .nbv1 img {
+  margin-top: 15px;
+  float: left;
+}
+.kkk3 .up1 .nbv1 p {
+  font-size: 18px;
+  float: right;
+  margin-top: 20px;
+  margin-right: 7px;
+}
+.kkk3 .up1 .nbv2 {
+  width: 477px;
+  height: 70px;
+  background: none;
+  float: right;
+}
+.kkk3 .up1 .nbv2 p {
+  float: left;
+  margin-top: 25px;
+  margin-right: 25px ;
+}
+.kkk3 .cent2 {
+  width: 1170px;
+  height: 312px;
+  background: none;
+  margin: auto;
+}
+.kkk3 .cent2 .main3 {
+  width: 279px;
+  height: 305px;
+  background: none;
+  float: left;
+  padding-left: 11px;
+  border: 1px solid #eeeeee;
+}
+.kkk3 .cent2 .main3 dl dt {
+  margin-left: 12px;
+  padding-top: 10px;
+}
+.kkk3 .cent2 .main3 dl dd {
+  padding-top: 10px;
+}
+.kkk3 .cent2 .main3 dl dd b {
+  margin-left: 12px;
+}
+.kkk3 .cent2 .main3 dl dd a {
+  font-size: 16px;
+  color: orangered;
+  margin-left: 12px;
+  margin-top: 30px;
+}
+.kkk3 .cent2 .main3 dl dd p {
+  margin-left: 12px;
+}
+.kkk3 .cent2 .main3 dl dd span {
+  margin-left: 5px;
+  margin-top: 10px;
+}
+.kkk3 .cent2 .main3 dl dd c {
+  margin-left: 78px;
+  margin-top: 30px;
+}
+.kkk3 .cent2 .main3 dl dd p1 {
+  float: right;
+  margin-right: 10px;
+  margin-top: 30px;
+}
+.kkk4 {
+  width: 1170px;
+  height: 1000px;
+  background: none;
+  margin: auto;
+}
+.kkk4 .up1 {
+  width: 1170px;
+  height: 70px;
+  background: none;
+  margin: auto;
+}
+.kkk4 .up1 .nbv1 {
+  width: 80px;
+  height: 70px;
+  background: none;
+  float: left;
+}
+.kkk4 .up1 .nbv1 img {
+  margin-top: 15px;
+  float: left;
+}
+.kkk4 .up1 .nbv1 p {
+  font-size: 18px;
+  float: right;
+  margin-top: 20px;
+  margin-right: 7px;
+}
+.kkk4 .up1 .nbv2 {
+  width: 477px;
+  height: 70px;
+  background: none;
+  float: right;
+}
+.kkk4 .up1 .nbv2 p {
+  float: left;
+  margin-top: 25px;
+  margin-right: 25px ;
+}
+.kkk4 .cent2 {
+  width: 1170px;
+  height: 614px;
+  background: none;
+  margin: auto;
+}
+.kkk4 .cent2 .main3 {
+  width: 279px;
+  height: 305px;
+  background: none;
+  float: left;
+  padding-left: 11px;
+  border: 1px solid #eeeeee;
+}
+.kkk4 .cent2 .main3 dl dt {
+  margin-left: 12px;
+  padding-top: 10px;
+}
+.kkk4 .cent2 .main3 dl dd {
+  padding-top: 10px;
+}
+.kkk4 .cent2 .main3 dl dd b {
+  margin-left: 12px;
+}
+.kkk4 .cent2 .main3 dl dd a {
+  font-size: 16px;
+  color: orangered;
+  margin-left: 12px;
+  margin-top: 30px;
+}
+.kkk4 .cent2 .main3 dl dd p {
+  margin-left: 12px;
+}
+.kkk4 .cent2 .main3 dl dd span {
+  margin-left: 5px;
+  margin-top: 10px;
+}
+.kkk4 .cent2 .main3 dl dd c {
+  margin-left: 78px;
+  margin-top: 30px;
+}
+.kkk4 .cent2 .main3 dl dd p1 {
+  float: right;
+  margin-right: 10px;
+  margin-top: 30px;
+}
+.kkk5 {
+  width: 1170px;
+  height: 1000px;
+  background: none;
+  margin: auto;
+}
+.kkk5 .up1 {
+  width: 1170px;
+  height: 70px;
+  background: none;
+  margin: auto;
+}
+.kkk5 .up1 .nbv1 {
+  width: 120px;
+  height: 70px;
+  background: none;
+  float: left;
+}
+.kkk5 .up1 .nbv1 img {
+  margin-top: 15px;
+  float: left;
+}
+.kkk5 .up1 .nbv1 p {
+  font-size: 18px;
+  float: right;
+  margin-top: 20px;
+  margin-right: 7px;
+}
+.kkk5 .up1 .nbv2 {
+  width: 477px;
+  height: 70px;
+  background: none;
+  float: right;
+}
+.kkk5 .up1 .nbv2 p {
+  float: left;
+  margin-top: 25px;
+  margin-right: 25px ;
+}
+.kkk5 .cent2 {
+  width: 1170px;
+  height: 614px;
+  background: none;
+  margin: auto;
+}
+.kkk5 .cent2 .main3 {
+  width: 279px;
+  height: 305px;
+  background: none;
+  float: left;
+  padding-left: 11px;
+  border: 1px solid #eeeeee;
+}
+.kkk5 .cent2 .main3 dl dt {
+  margin-left: 12px;
+  padding-top: 10px;
+}
+.kkk5 .cent2 .main3 dl dd {
+  padding-top: 10px;
+}
+.kkk5 .cent2 .main3 dl dd b {
+  margin-left: 12px;
+}
+.kkk5 .cent2 .main3 dl dd a {
+  font-size: 16px;
+  color: orangered;
+  margin-left: 12px;
+  margin-top: 30px;
+}
+.kkk5 .cent2 .main3 dl dd p {
+  margin-left: 12px;
+}
+.kkk5 .cent2 .main3 dl dd span {
+  margin-left: 5px;
+  margin-top: 10px;
+}
+.kkk5 .cent2 .main3 dl dd c {
+  margin-left: 78px;
+  margin-top: 30px;
+}
+.kkk5 .cent2 .main3 dl dd p1 {
+  float: right;
+  margin-right: 10px;
+  margin-top: 30px;
+}
+.kkk6 {
+  width: 1170px;
+  height: 1000px;
+  background: none;
+  margin: auto;
+}
+.kkk6 .up1 {
+  width: 1170px;
+  height: 70px;
+  background: none;
+  margin: auto;
+}
+.kkk6 .up1 .nbv1 {
+  width: 80px;
+  height: 70px;
+  background: none;
+  float: left;
+}
+.kkk6 .up1 .nbv1 img {
+  margin-top: 15px;
+  float: left;
+}
+.kkk6 .up1 .nbv1 p {
+  font-size: 18px;
+  float: right;
+  margin-top: 20px;
+  margin-right: 7px;
+}
+.kkk6 .up1 .nbv2 {
+  width: 477px;
+  height: 70px;
+  background: none;
+  float: right;
+}
+.kkk6 .up1 .nbv2 p {
+  float: left;
+  margin-top: 25px;
+  margin-right: 25px ;
+}
+.kkk6 .cent2 {
+  width: 1170px;
+  height: 614px;
+  background: none;
+  margin: auto;
+}
+.kkk6 .cent2 .main3 {
+  width: 279px;
+  height: 305px;
+  background: none;
+  float: left;
+  padding-left: 11px;
+  border: 1px solid #eeeeee;
+}
+.kkk6 .cent2 .main3 dl dt {
+  margin-left: 12px;
+  padding-top: 10px;
+}
+.kkk6 .cent2 .main3 dl dd {
+  padding-top: 10px;
+}
+.kkk6 .cent2 .main3 dl dd b {
+  margin-left: 12px;
+}
+.kkk6 .cent2 .main3 dl dd a {
+  font-size: 16px;
+  color: orangered;
+  margin-left: 12px;
+  margin-top: 30px;
+}
+.kkk6 .cent2 .main3 dl dd p {
+  margin-left: 12px;
+}
+.kkk6 .cent2 .main3 dl dd span {
+  margin-left: 5px;
+  margin-top: 10px;
+}
+.kkk6 .cent2 .main3 dl dd c {
+  margin-left: 78px;
+  margin-top: 30px;
+}
+.kkk6 .cent2 .main3 dl dd p1 {
+  float: right;
+  margin-right: 10px;
+  margin-top: 30px;
+}
+.kkk7 {
+  width: 1170px;
+  height: 1000px;
+  background: none;
+  margin: auto;
+}
+.kkk7 .up1 {
+  width: 1170px;
+  height: 70px;
+  background: none;
+  margin: auto;
+}
+.kkk7 .up1 .nbv1 {
+  width: 80px;
+  height: 70px;
+  background: none;
+  float: left;
+}
+.kkk7 .up1 .nbv1 img {
+  margin-top: 15px;
+  float: left;
+}
+.kkk7 .up1 .nbv1 p {
+  font-size: 18px;
+  float: right;
+  margin-top: 20px;
+  margin-right: 7px;
+}
+.kkk7 .up1 .nbv2 {
+  width: 477px;
+  height: 70px;
+  background: none;
+  float: right;
+}
+.kkk7 .up1 .nbv2 p {
+  float: left;
+  margin-top: 25px;
+  margin-right: 25px ;
+}
+.kkk7 .cent2 {
+  width: 1170px;
+  height: 614px;
+  background: none;
+  margin: auto;
+}
+.kkk7 .cent2 .main3 {
+  width: 279px;
+  height: 305px;
+  background: none;
+  float: left;
+  padding-left: 11px;
+  border: 1px solid #eeeeee;
+}
+.kkk7 .cent2 .main3 dl dt {
+  margin-left: 12px;
+  padding-top: 10px;
+}
+.kkk7 .cent2 .main3 dl dd {
+  padding-top: 10px;
+}
+.kkk7 .cent2 .main3 dl dd b {
+  margin-left: 12px;
+}
+.kkk7 .cent2 .main3 dl dd a {
+  font-size: 16px;
+  color: orangered;
+  margin-left: 12px;
+  margin-top: 30px;
+}
+.kkk7 .cent2 .main3 dl dd p {
+  margin-left: 12px;
+}
+.kkk7 .cent2 .main3 dl dd span {
+  margin-left: 5px;
+  margin-top: 10px;
+}
+.kkk7 .cent2 .main3 dl dd c {
+  margin-left: 78px;
+  margin-top: 30px;
+}
+.kkk7 .cent2 .main3 dl dd p1 {
+  float: right;
+  margin-right: 10px;
+  margin-top: 30px;
+}
+.footer {
+  width: 1170px;
+  height: 74px;
+  background: none;
+  margin: auto;
+  margin-top: 15px;
+}
+.footer .footer1 {
+  width: 640px;
+  height: 27px;
+  background: none;
+  float: left;
+}
+.footer .footer1 ul li {
+  float: left;
+  border: 1px solid #eeeeee;
+  padding-top: 20px;
+  padding: 0 10px;
+}
+.footer .footer2 {
+  width: 1170px;
+  height: 44px;
+  background: none;
+  border: 1px solid #eeeeee;
+  float: left;
+}
+.footer .footer2 ol {
+  margin-top: 15px;
+}
+.footer .footer2 ol li {
+  width: 100px;
+  float: left;
+}
+.footer3 {
+  width: 1170px;
+  height: 276px;
+  background: none;
+  margin: auto;
+}
+.footer3 .df {
+  width: 225px;
+  height: 276px;
+  background: none;
+  float: left;
+}
+.footer3 .df p {
+  line-height: 20px;
+  margin: 10px ;
+}
+.footer3 .df p b {
+  display: block;
+  margin-top: 20px;
+  font-size: 20px;
+}
+.footer3 .df1 {
+  width: 218px;
+  height: 276px;
+  background: none;
+  float: left;
+}
+.footer3 .df1 p {
+  line-height: 20px;
+  margin: 10px ;
+}
+.footer3 .df1 p b {
+  display: block;
+  margin-top: 20px;
+  font-size: 20px;
+}
+.footer3 .df2 {
+  width: 218px;
+  height: 276px;
+  background: none;
+  float: left;
+}
+.footer3 .df2 p {
+  line-height: 20px;
+  margin: 10px ;
+}
+.footer3 .df2 p b {
+  display: block;
+  margin-top: 20px;
+  font-size: 20px;
+}
+.footer3 .df3 {
+  width: 206px;
+  height: 276px;
+  background: none;
+  float: left;
+}
+.footer3 .df3 p {
+  line-height: 20px;
+  margin: 10px ;
+}
+.footer3 .df3 p b {
+  display: block;
+  margin-top: 20px;
+  font-size: 20px;
+}
+.footer3 .df4 {
+  width: 302px;
+  height: 276px;
+  background: none;
+  float: left;
+  padding-top: 12px;
+}
+.footer3 .df4 img {
+  padding-top: 12px;
+  margin-left: 33px;
+}
+.footer3 .df4 p1 {
+  margin-left: 33px;
+}
+.footer3 .df4 p {
+  padding-top: 10px;
+  margin-left: 33px;
+}
+.footer3 .df4 p b {
+  margin-left: 10px;
+  font-size: 15px;
+}
+.footer3 .df4 span {
+  padding-top: 42px;
+  margin-left: 33px;
+}
+.footer3 .df4 a {
+  margin-left: 33px;
+  color: #2bb8aa;
+}
+.wei {
+  width: 100%;
+  height: 250px;
+  background: #f9f9f9;
+  margin: auto;
+}
+.wei .wei1 {
+  width: 500px;
+  height: 250px;
+  background: none;
+  margin: auto;
+}
+.wei .wei1 p {
+  padding-top: 30px;
+  margin-left: 15px;
+}
+.wei .wei1 p1 {
+  margin-left: 111px;
+  line-height: 40px;
+}
+.wei .wei1 p2 {
+  margin-left: 170px;
+  line-height: 40px;
+}
+.wei .wei1 img {
+  margin-left: -135px;
+}
+.wei .www {
+  width: 335px;
+  height: 41px;
+  background: none;
+  margin: auto;
+  margin-top: -50px;
+}
